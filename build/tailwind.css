@@ -778,6 +778,10 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-place1 {
+  background-image: url(../assets/images/p-1.jpg);
+}
+
 .bg-place2 {
   background-image: url(../assets/images/p-2.jpeg);
 }
@@ -791,15 +795,27 @@ video {
 }
 
 .bg-place5 {
-  background-image: url(../assets/images/p-5.jpeg);
+  background-image: url(../assets/images/p-5.jpg);
 }
 
 .bg-place6 {
   background-image: url(../assets/images/p-6.jpeg);
 }
 
-.bg-place1 {
-  background-image: url(../assets/images/p-1.jpg);
+.bg-place7 {
+  background-image: url(../assets/images/p-7.jpg);
+}
+
+.bg-place8 {
+  background-image: url(../assets/images/p-8.jpeg);
+}
+
+.bg-place9 {
+  background-image: url(../assets/images/p-9.jpg);
+}
+
+.bg-place10 {
+  background-image: url(../assets/images/p-10.jpeg);
 }
 
 .bg-cover {
