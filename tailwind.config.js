@@ -29,6 +29,10 @@ module.exports = {
         place16: "url(../assets/images/p-15.jpeg)",
       },
     },
+    container: {
+      center: true,
+      // padding: '2rem'
+    },
   },
   plugins: [],
 };
